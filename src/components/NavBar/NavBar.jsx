@@ -6,10 +6,7 @@ export default function NavBar(){
         <nav className={styles.navbar}>
              <Logo />
              <input />
-              <BsCart4 size={40} />
-             
-              
-             
+              <BsCart4 size={40} />     
         </nav>
      
     )
